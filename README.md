@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mruthyunjayar07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/mruthyunjayar07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mruthyunjayar07/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mruthyunjayar07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mruthyunjayar07/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mruthyunjayar07/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/mruthyunjayar07/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mruthyunjayar07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/mruthyunjayar07/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mruthyunjayar07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
