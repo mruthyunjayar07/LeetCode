@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mruthyunjayar07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mruthyunjayar07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mruthyunjayar07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mruthyunjayar07/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mruthyunjayar07/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mruthyunjayar07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/mruthyunjayar07/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/mruthyunjayar07/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mruthyunjayar07/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mruthyunjayar07/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mruthyunjayar07/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Two Pointers
 |  |
 | ------- |
