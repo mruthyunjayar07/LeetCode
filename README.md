@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mruthyunjayar07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/mruthyunjayar07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mruthyunjayar07/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/mruthyunjayar07/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mruthyunjayar07/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mruthyunjayar07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mruthyunjayar07/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/mruthyunjayar07/LeetCode/tree/master/0605-can-place-flowers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mruthyunjayar07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Stack
 |  |
