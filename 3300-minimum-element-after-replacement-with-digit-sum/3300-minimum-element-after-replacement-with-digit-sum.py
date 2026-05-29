@@ -2,4 +2,13 @@ from typing import List
 
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        return min(sum(map(int, str(num))) for num in nums)
+        res = 100
+
+        for x in nums:
+            s = 0
+            while x:
+                s += x % 10
+                x //= 10
+            res = min(res, s)
+
+        return res
